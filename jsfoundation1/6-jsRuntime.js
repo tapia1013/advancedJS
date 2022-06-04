@@ -28,7 +28,13 @@
  *                      EVENT LOOP
  * ONLY RUNS ONCE THE CALLSTACK IS EMPTY ANDTHE ENTIRE JS FILE 
  * HAS BEEN READ
+ * 
  *
+ * event loop is also used in nodejs
+ * 
+ * 
+ * 
+ * 
  */
 
 // window => shows us the window scope with built in methods
